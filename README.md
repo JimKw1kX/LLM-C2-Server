@@ -1,5 +1,5 @@
 # AI LLM-C2-Server 🤖
-An AI empowered C2 Server intergated in a [pre-trained](./train.py) LLM.
+An AI empowered C2 Server intergated in a [pre-trained](./train.py) LLM. Goal is to expore the possibility using AI to enhance advsaery simulation tasks. 
 
 👨‍💻 Other functionalities are under developing... 
 - To start with
